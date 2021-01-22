@@ -1,1 +1,3 @@
 Primera linia
+afegixo més línies des de l'editor del github.
+Per confirmar els canvis hauré de fer un nou commit...
